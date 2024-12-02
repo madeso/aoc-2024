@@ -8,3 +8,4 @@
 - some assembly, x86, chip-8 and/or 6502
 - ada
 - ocaml
+- [luau](https://luau.org/)
